@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **norbert.gniadek@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/norbert-gniadek-7908a021a](www.linkedin.com/in/norbert-gniadek-7908a021a)
+- 📄 Know about my experiences [https://www.linkedin.com/in/norbert-gniadek-7908a021a](https://www.linkedin.com/in/norbert-gniadek-7908a021a)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
