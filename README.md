@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **New Gym Workout Tracker**
 
-- 🌱 I’m currently learning **React.js, Node.js, Typescript**
+- 🌱 I’m currently learning **React.js, Vue.js**
 
 - 📫 How to reach me **norbert.gniadek@gmail.com**
 
